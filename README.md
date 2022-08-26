@@ -35,6 +35,8 @@ This project took me around 10hrs to build.
 
 ![App Screenshot](./Assets/screencapture-shopify-clone-vivektenali-netlify-app-2022-08-24-00_10_40.png)
 
+![Mockup](./Assets/mockupimage.png)
+
 > Thank You  [Hitesh Sir](https://hiteshchoudhary.com/) for the guidance. 
 
 **I Write Code**
