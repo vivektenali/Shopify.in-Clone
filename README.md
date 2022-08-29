@@ -19,7 +19,7 @@ This project took me around 10hrs to build.
 
 
 
-[Livelink]("https://shopify-clone-vivektenali.netlify.app/")
+[Livelink](https://shopify-clone-vivektenali.netlify.app/)
 
 
 
